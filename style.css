@@ -444,6 +444,7 @@ section {
     display: flex;
     align-items: center;
     padding-top: var(--nav-height);
+    padding-bottom: 6rem;
 }
 
 .hero-description {
