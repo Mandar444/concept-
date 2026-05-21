@@ -52,7 +52,7 @@ function App() {
                 if(cursorOutline) {
                     cursorOutline.style.width = '60px';
                     cursorOutline.style.height = '60px';
-                    cursorOutline.style.backgroundColor = 'rgba(200, 245, 74, 0.1)';
+                    cursorOutline.style.backgroundColor = 'rgba(179, 38, 30, 0.1)';
                 }
             });
             el.addEventListener('mouseleave', () => {

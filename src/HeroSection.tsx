@@ -156,13 +156,13 @@ const HeroSection: React.FC = () => {
         </p>
 
         <button
-          className="mt-6 transition-all duration-300 hover:scale-[1.03] hover:shadow-[0px_6px_32px_8px_rgba(39,243,169,0.22)] active:scale-[0.98]"
+          className="mt-6 transition-all duration-300 hover:scale-[1.03] hover:shadow-[0px_6px_32px_8px_rgba(179,38,30,0.22)] active:scale-[0.98]"
           style={{
             padding: '12px 28px',
             background: '#000',
-            boxShadow: '0px 6px 24px 6px rgba(39, 243, 169, 0.15)',
+            boxShadow: '0px 6px 24px 6px rgba(179, 38, 30, 0.15)',
             borderRadius: 8,
-            outline: '1px solid #30463C',
+            outline: '1px solid #4a1815',
             outlineOffset: -1,
             border: 'none',
             cursor: 'pointer',
